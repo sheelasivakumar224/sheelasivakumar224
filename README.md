@@ -2,4 +2,4 @@
 
 
 - 🛣️ Heading toward a Bachelor's degree in Artificial Intelligence and Data Science 
-- 👀 Interested in Machine Learning | UI/UX Designing and Engineering
+- 👀 Interested in Machine Learning 
